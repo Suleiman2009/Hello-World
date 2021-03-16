@@ -1,0 +1,12 @@
+using System;
+
+namespace CSharp
+{
+    public class mainClass 
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
